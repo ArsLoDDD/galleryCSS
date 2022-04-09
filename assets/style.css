@@ -12,7 +12,7 @@ margin: 20px 20px;
 margin-left: 170px;
 object-fit: cover;
 }
-#midl-pic {
+.midl-pic {
   margin: 50px 100px 50px 320px;
 display: inline-block;
 
